@@ -1,13 +1,7 @@
 Git commands:
 
-Git clone - to clone repository to local machine
-Git log - to check commits
-Ls -la - to view files in a folder
-Git status - to check status of files 
-Touch - to create new file
-Vim - open file in Vim redactor
-Git add - to add file to index
-Git commit - to commit changes 
-Rm - delete file
-Git mv - to rename file
-Git push origin - to push local repository to github
+Git branch - to see git branches
+Git branch "name" - to create new branch
+Git checkout "branch name" - to switch branch
+Git checkout -b "name" - to create a new branch and to enter it
+Git branch - - to return previous branch 
